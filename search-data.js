@@ -8,6 +8,11 @@ const sitePages = [
   */
   //10.双書室
   {
+    title: "甘受",
+    url: "https://erla.jp/fwfw_watage/novel/50253/454831/",
+    keywords: `成人限定 mtsz mt×sz szmt sz×mt 第三者視点 胸攻め 手扱き 焦らし 攻守逆転 立位 対面座位`
+  },
+  {
     title: "欲しい言葉",
     url: "https://erla.jp/fwfw_watage/novel/50253/370099/",
     keywords: `成人限定 szmt sz×mt サザントス視点 睡眠姦 マーキング 焦らし
